@@ -1,0 +1,16 @@
+E:\Coding\SoftUni\C# OOP Advanced\StoryMode 3rd stage final\StoryMode\BashSoft.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Coding\SoftUni\C# OOP Advanced\StoryMode 3rd stage final\StoryMode\BashSoft.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Coding\SoftUni\C# OOP Advanced\StoryMode 3rd stage final\StoryMode\BashSoft.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Coding\SoftUni\C# OOP Advanced\StoryMode 3rd stage final\StoryMode\BashSoft.Tests\bin\Debug\netcoreapp2.0\BashSoft.Tests.deps.json
+E:\Coding\SoftUni\C# OOP Advanced\StoryMode 3rd stage final\StoryMode\BashSoft.Tests\bin\Debug\netcoreapp2.0\BashSoft.Tests.runtimeconfig.json
+E:\Coding\SoftUni\C# OOP Advanced\StoryMode 3rd stage final\StoryMode\BashSoft.Tests\bin\Debug\netcoreapp2.0\BashSoft.Tests.runtimeconfig.dev.json
+E:\Coding\SoftUni\C# OOP Advanced\StoryMode 3rd stage final\StoryMode\BashSoft.Tests\bin\Debug\netcoreapp2.0\BashSoft.Tests.dll
+E:\Coding\SoftUni\C# OOP Advanced\StoryMode 3rd stage final\StoryMode\BashSoft.Tests\bin\Debug\netcoreapp2.0\BashSoft.Tests.pdb
+E:\Coding\SoftUni\C# OOP Advanced\StoryMode 3rd stage final\StoryMode\BashSoft.Tests\bin\Debug\netcoreapp2.0\BashSoft.dll
+E:\Coding\SoftUni\C# OOP Advanced\StoryMode 3rd stage final\StoryMode\BashSoft.Tests\bin\Debug\netcoreapp2.0\BashSoft.pdb
+E:\Coding\SoftUni\C# OOP Advanced\StoryMode 3rd stage final\StoryMode\BashSoft.Tests\obj\Debug\netcoreapp2.0\BashSoft.Tests.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\C# OOP Advanced\StoryMode 3rd stage final\StoryMode\BashSoft.Tests\obj\Debug\netcoreapp2.0\BashSoft.Tests.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# OOP Advanced\StoryMode 3rd stage final\StoryMode\BashSoft.Tests\obj\Debug\netcoreapp2.0\BashSoft.Tests.AssemblyInfoInputs.cache
+E:\Coding\SoftUni\C# OOP Advanced\StoryMode 3rd stage final\StoryMode\BashSoft.Tests\obj\Debug\netcoreapp2.0\BashSoft.Tests.AssemblyInfo.cs
+E:\Coding\SoftUni\C# OOP Advanced\StoryMode 3rd stage final\StoryMode\BashSoft.Tests\obj\Debug\netcoreapp2.0\BashSoft.Tests.dll
+E:\Coding\SoftUni\C# OOP Advanced\StoryMode 3rd stage final\StoryMode\BashSoft.Tests\obj\Debug\netcoreapp2.0\BashSoft.Tests.pdb

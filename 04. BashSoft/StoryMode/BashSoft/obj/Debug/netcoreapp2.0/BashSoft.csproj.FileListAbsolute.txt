@@ -1,0 +1,55 @@
+D:\Programming\C# Fundamentals\C# Advanced\StoryMode\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.deps.json
+D:\Programming\C# Fundamentals\C# Advanced\StoryMode\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.runtimeconfig.json
+D:\Programming\C# Fundamentals\C# Advanced\StoryMode\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.runtimeconfig.dev.json
+D:\Programming\C# Fundamentals\C# Advanced\StoryMode\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.dll
+D:\Programming\C# Fundamentals\C# Advanced\StoryMode\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.pdb
+D:\Programming\C# Fundamentals\C# Advanced\StoryMode\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.csprojResolveAssemblyReference.cache
+D:\Programming\C# Fundamentals\C# Advanced\StoryMode\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.csproj.CoreCompileInputs.cache
+D:\Programming\C# Fundamentals\C# Advanced\StoryMode\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.AssemblyInfoInputs.cache
+D:\Programming\C# Fundamentals\C# Advanced\StoryMode\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.AssemblyInfo.cs
+D:\Programming\C# Fundamentals\C# Advanced\StoryMode\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.dll
+D:\Programming\C# Fundamentals\C# Advanced\StoryMode\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.pdb
+C:\Users\Danny\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\StoryMode (2)\StoryMode\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.deps.json
+C:\Users\Danny\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\StoryMode (2)\StoryMode\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.runtimeconfig.json
+C:\Users\Danny\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\StoryMode (2)\StoryMode\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.runtimeconfig.dev.json
+C:\Users\Danny\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\StoryMode (2)\StoryMode\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.dll
+C:\Users\Danny\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\StoryMode (2)\StoryMode\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.pdb
+C:\Users\Danny\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\StoryMode (2)\StoryMode\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.csprojResolveAssemblyReference.cache
+C:\Users\Danny\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\StoryMode (2)\StoryMode\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.csproj.CoreCompileInputs.cache
+C:\Users\Danny\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\StoryMode (2)\StoryMode\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.AssemblyInfoInputs.cache
+C:\Users\Danny\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\StoryMode (2)\StoryMode\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.AssemblyInfo.cs
+C:\Users\Danny\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\StoryMode (2)\StoryMode\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.dll
+C:\Users\Danny\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\StoryMode (2)\StoryMode\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.pdb
+E:\Coding\SoftUni\C# OOP Basics\StoryMode 1-st stage final\StoryMode\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.deps.json
+E:\Coding\SoftUni\C# OOP Basics\StoryMode 1-st stage final\StoryMode\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.runtimeconfig.json
+E:\Coding\SoftUni\C# OOP Basics\StoryMode 1-st stage final\StoryMode\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.runtimeconfig.dev.json
+E:\Coding\SoftUni\C# OOP Basics\StoryMode 1-st stage final\StoryMode\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.dll
+E:\Coding\SoftUni\C# OOP Basics\StoryMode 1-st stage final\StoryMode\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.pdb
+E:\Coding\SoftUni\C# OOP Basics\StoryMode 1-st stage final\StoryMode\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\C# OOP Basics\StoryMode 1-st stage final\StoryMode\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# OOP Basics\StoryMode 1-st stage final\StoryMode\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.AssemblyInfoInputs.cache
+E:\Coding\SoftUni\C# OOP Basics\StoryMode 1-st stage final\StoryMode\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.AssemblyInfo.cs
+E:\Coding\SoftUni\C# OOP Basics\StoryMode 1-st stage final\StoryMode\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.dll
+E:\Coding\SoftUni\C# OOP Basics\StoryMode 1-st stage final\StoryMode\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.pdb
+E:\Coding\SoftUni\C# OOP Basics\StoryMode 2nd stage final\StoryMode\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.deps.json
+E:\Coding\SoftUni\C# OOP Basics\StoryMode 2nd stage final\StoryMode\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.runtimeconfig.json
+E:\Coding\SoftUni\C# OOP Basics\StoryMode 2nd stage final\StoryMode\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.runtimeconfig.dev.json
+E:\Coding\SoftUni\C# OOP Basics\StoryMode 2nd stage final\StoryMode\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.dll
+E:\Coding\SoftUni\C# OOP Basics\StoryMode 2nd stage final\StoryMode\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.pdb
+E:\Coding\SoftUni\C# OOP Basics\StoryMode 2nd stage final\StoryMode\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\C# OOP Basics\StoryMode 2nd stage final\StoryMode\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# OOP Basics\StoryMode 2nd stage final\StoryMode\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.AssemblyInfoInputs.cache
+E:\Coding\SoftUni\C# OOP Basics\StoryMode 2nd stage final\StoryMode\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.AssemblyInfo.cs
+E:\Coding\SoftUni\C# OOP Basics\StoryMode 2nd stage final\StoryMode\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.dll
+E:\Coding\SoftUni\C# OOP Basics\StoryMode 2nd stage final\StoryMode\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.pdb
+E:\Coding\SoftUni\C# OOP Advanced\StoryMode 3rd stage final\StoryMode\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.deps.json
+E:\Coding\SoftUni\C# OOP Advanced\StoryMode 3rd stage final\StoryMode\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.runtimeconfig.json
+E:\Coding\SoftUni\C# OOP Advanced\StoryMode 3rd stage final\StoryMode\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.runtimeconfig.dev.json
+E:\Coding\SoftUni\C# OOP Advanced\StoryMode 3rd stage final\StoryMode\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.dll
+E:\Coding\SoftUni\C# OOP Advanced\StoryMode 3rd stage final\StoryMode\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.pdb
+E:\Coding\SoftUni\C# OOP Advanced\StoryMode 3rd stage final\StoryMode\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\C# OOP Advanced\StoryMode 3rd stage final\StoryMode\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# OOP Advanced\StoryMode 3rd stage final\StoryMode\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.AssemblyInfoInputs.cache
+E:\Coding\SoftUni\C# OOP Advanced\StoryMode 3rd stage final\StoryMode\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.AssemblyInfo.cs
+E:\Coding\SoftUni\C# OOP Advanced\StoryMode 3rd stage final\StoryMode\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.dll
+E:\Coding\SoftUni\C# OOP Advanced\StoryMode 3rd stage final\StoryMode\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.pdb
